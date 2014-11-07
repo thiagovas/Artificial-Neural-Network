@@ -1,0 +1,227 @@
+Epoch 0
+Squared Error: 3.79558292488
+
+Epoch 10
+Squared Error: 2.33549419601
+
+Epoch 20
+Squared Error: 2.27546158625
+
+Epoch 30
+Squared Error: 2.18321639329
+
+Epoch 40
+Squared Error: 2.17211087233
+
+Epoch 50
+Squared Error: 2.17830327279
+
+Epoch 60
+Squared Error: 2.18120001544
+
+Epoch 70
+Squared Error: 2.27403490157
+
+Epoch 80
+Squared Error: 2.17396675857
+
+Epoch 90
+Squared Error: 2.26533666077
+
+Epoch 100
+Squared Error: 2.36535569158
+
+Epoch 110
+Squared Error: 2.36534314339
+
+Epoch 120
+Squared Error: 2.12361951261
+
+Epoch 130
+Squared Error: 2.08438851028
+
+Epoch 140
+Squared Error: 2.18720014862
+
+Epoch 150
+Squared Error: 1.92351214072
+
+Epoch 160
+Squared Error: 1.80874134336
+
+Epoch 170
+Squared Error: 1.99297076413
+
+Epoch 180
+Squared Error: 1.90029988185
+
+Epoch 190
+Squared Error: 1.90036581568
+
+Epoch 200
+Squared Error: 1.82643093345
+
+Epoch 210
+Squared Error: 1.9885435945
+
+Epoch 220
+Squared Error: 2.18137174612
+
+Epoch 230
+Squared Error: 1.98797728367
+
+Epoch 240
+Squared Error: 2.060681399
+
+Epoch 250
+Squared Error: 1.90190357251
+
+Epoch 260
+Squared Error: 1.94606391699
+
+Epoch 270
+Squared Error: 1.68204069078
+
+Epoch 280
+Squared Error: 1.52793553278
+
+Epoch 290
+Squared Error: 1.68577327932
+
+Epoch 300
+Squared Error: 1.58668921841
+
+Epoch 310
+Squared Error: 1.50744974994
+
+Epoch 320
+Squared Error: 1.48885162761
+
+Epoch 330
+Squared Error: 1.56953529249
+
+Epoch 340
+Squared Error: 1.69447528965
+
+Epoch 350
+Squared Error: 1.52760476921
+
+Epoch 360
+Squared Error: 1.58223293392
+
+Epoch 370
+Squared Error: 1.54378062467
+
+Epoch 380
+Squared Error: 1.59809060798
+
+Epoch 390
+Squared Error: 1.42208075092
+
+Epoch 400
+Squared Error: 1.2982102161
+
+Epoch 410
+Squared Error: 1.44841332163
+
+Epoch 420
+Squared Error: 1.38215698408
+
+Epoch 430
+Squared Error: 1.29707622736
+
+Epoch 440
+Squared Error: 1.32403215551
+
+Epoch 450
+Squared Error: 1.39047602247
+
+Epoch 460
+Squared Error: 1.49765155277
+
+Epoch 470
+Squared Error: 1.37285544346
+
+Epoch 480
+Squared Error: 1.43716892863
+
+Epoch 490
+Squared Error: 1.60290584571
+
+Epoch 500
+Squared Error: 1.80543759623
+
+Epoch 510
+Squared Error: 1.21777743148
+
+Epoch 520
+Squared Error: 1.96487518333
+
+Epoch 530
+Squared Error: 1.31249442422
+
+Epoch 540
+Squared Error: 1.32674639059
+
+Epoch 550
+Squared Error: 2.3736495466
+
+Epoch 560
+Squared Error: 1.37662668876
+
+Epoch 570
+Squared Error: 2.59893097407
+
+Epoch 580
+Squared Error: 2.68783189121
+
+Epoch 590
+Squared Error: 2.72481830962
+
+Epoch 600
+Squared Error: 1.53583664672
+
+Epoch 610
+Squared Error: 1.55154068732
+
+Epoch 620
+Squared Error: 1.55875000183
+
+Epoch 630
+Squared Error: 1.5391240493
+
+Epoch 640
+Squared Error: 1.53994043291
+
+Epoch 650
+Squared Error: 1.56651608456
+
+Epoch 660
+Squared Error: 1.56784242682
+
+Epoch 670
+Squared Error: 1.5314754229
+
+Epoch 680
+Squared Error: 1.57540558388
+
+Epoch 690
+Squared Error: 1.58732909959
+
+Epoch 700
+Squared Error: 1.5982109914
+
+Epoch 710
+Squared Error: 1.60234048123
+
+Epoch 720
+Squared Error: 0.14432231528
+
+Exemplar: 2 3 0   Neural Network Output: 0.168289782544
+Exemplar: 5 17 0   Neural Network Output: 0.105702594988
+Exemplar: 7 1 0   Neural Network Output: 0.145719708144
+Exemplar: 9 9 1   Neural Network Output: 0.863427753902
+Exemplar: 10 7 1   Neural Network Output: 0.876733805522
+Exemplar: 11 10 1   Neural Network Output: 0.880843700402
+Exemplar: 16 10 1   Neural Network Output: 0.877752829367
+Exemplar: 19 4 0   Neural Network Output: 0.13107146454
